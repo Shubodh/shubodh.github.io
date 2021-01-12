@@ -15,12 +15,13 @@ May 2020 | ICRA (IEEE International Conference on Robotics and Automation)
 
 ### Graduate Teaching Associate, Mobile Robotics
 *[July 2020 - Dec 2020]*   
-Teaching Associate (Head Teaching Assistant) for the course "Mobile Robotics", under Prof Madhava Krishna. I have designed the assignments and have taught most of Computer Vision and GraphSLAM parts of the course as the Teaching Associate. 
+Teaching Associate (Head Teaching Assistant) for the course "Mobile Robotics", under Prof Madhava Krishna. I have designed the assignments and have taught most of Computer Vision and GraphSLAM parts of the course as the Teaching Associate. Ever heard of students falling in love with a TA? Yup, that's me :).
 
 ### Co-founder and SLAM Lead, Sally Robotics
 *[June 2018 - May 2019]*    
-[Sally Robotics](https://www.sally-robotics.co.in/) is an 'Indian Autonomous Vehicles' research group by robotics researchers at the Centre for Robotics & Intelligent Systems, BITS Pilani and spearheaded by Prof Bijay Kumar Rout. The research group aims to develop a truly autonomous car for the challenging Indian Roads.
-I was associated with the development of the AI-assisted Navigation subsystem to achieve complete spatial cognition for the Autonomous Vehicle.
+* [Sally Robotics](https://www.sally-robotics.co.in/) is an 'Indian Autonomous Vehicles' research group by robotics researchers at the Centre for Robotics & Intelligent Systems, BITS Pilani and spearheaded by Prof Bijay Kumar Rout. The research group aims to develop a truly autonomous car for the challenging Indian Roads. I was associated with the development of the AI-assisted Navigation subsystem to achieve complete spatial cognition for the Autonomous Vehicle.
+* Trained 15 students, raised 15,000 USD and achieved level-2 autonomy (lane-keeping and adaptive cruise control) on a Maruti Suzuki Alto K10 AGS.  
+
 
 
 ...more content to be added to this website.

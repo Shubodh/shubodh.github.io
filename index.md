@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# About me
 
-You can use the [editor on GitHub](https://github.com/Shubodh/shubodh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a researcher working in visual SLAM with an emphasis on deep learnt semantics-based techniques for both robotic vision and backend optimization, in the direction of Spatial AI. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, I'm an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/), IIIT Hyderabad in Computer Science with a specialization in Robotics. I'm advised by [Prof Madhava Krishna](https://robotics.iiit.ac.in/). I did my Bachelors degree at Birla Institute of Technologyy & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/), the top ranked private university in India).
 
-### Markdown
+# Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Topological Mapping for Manhattan-like Repetitive Environments
+[Paper](https://arxiv.org/abs/2002.06575) | [Code](https://github.com/Shubodh/ICRA2020/) | [Video](https://www.youtube.com/watch?v=swYcwrjprh0)     
+Sai Shubodh Puligilla, Satyajit Tourani, Tushar Vaidya, Udit Singh Parihar, Ravi Kiran Sarvadevabhatla, K. Madhava Krishna     
+May 2020 | ICRA (IEEE International Conference on Robotics and Automation)    
 
-```markdown
-Syntax highlighted code block
+# Experience
 
-# Header 1
-## Header 2
-### Header 3
+### Graduate Teaching Associate, Mobile Robotics
+*[July 2020 - Dec 2020]*   
+Teaching Associate (Head Teaching Assistant) for the course "Mobile Robotics", under Prof Madhava Krishna. I have designed the assignments and have taught most of Computer Vision and GraphSLAM parts of the course as the Teaching Associate. 
 
-- Bulleted
-- List
+### Co-founder and SLAM Lead, Sally Robotics
+*[June 2018 - May 2019]*    
+[Sally Robotics](https://www.sally-robotics.co.in/) is an 'Indian Autonomous Vehicles' research group by robotics researchers at the Centre for Robotics & Intelligent Systems, BITS Pilani and spearheaded by Prof Bijay Kumar Rout. The research group aims to develop a truly autonomous car for the challenging Indian Roads.
+I was associated with the development of the AI-assisted Navigation subsystem to achieve complete spatial cognition for the Autonomous Vehicle.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shubodh/shubodh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+...more content to be added to this website.

@@ -1,8 +1,12 @@
 # About me
 
+[LinkedIn](https://www.linkedin.com/in/shubodh-sai-1885a6119/) | [GitHub](https://github.com/Shubodh) | [Twitter](https://twitter.com/ShubodhSai)    
+
+
 I'm a researcher working in visual SLAM with an emphasis on deep learnt semantics-based techniques for both robotic vision and backend optimization, in the direction of Spatial AI. 
 
-Currently, I'm an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/), IIIT Hyderabad in Computer Science with a specialization in Robotics. I'm advised by [Prof Madhava Krishna](https://robotics.iiit.ac.in/). I did my Bachelors degree at Birla Institute of Technologyy & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/), the top ranked private university in India).
+Currently, I'm an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/), IIIT Hyderabad in Computer Science with a specialization in Robotics. I'm advised by [Prof Madhava Krishna](https://robotics.iiit.ac.in/). I did my Bachelors degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/), the top ranked private university in India).    
+
 
 # Publications
 

@@ -1,11 +1,17 @@
 # About me
 
-[LinkedIn](https://www.linkedin.com/in/shubodh-sai-1885a6119/) | [GitHub](https://github.com/Shubodh) | [Twitter](https://twitter.com/ShubodhSai)    
+[LinkedIn](https://www.linkedin.com/in/shubodh-sai-1885a6119/) | [GitHub](https://github.com/Shubodh) | [Twitter](https://twitter.com/shubodhs_ai)    
 
 
-I'm a researcher working in visual SLAM with an emphasis on deep learnt semantics-based techniques for both robotic vision and backend optimization, in the direction of Spatial AI. 
+Researcher working in the areas of robotic vision and geometric deep learning. 
 
-Currently, I'm an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/), IIIT Hyderabad in Computer Science with a specialization in Robotics. I'm advised by [Prof Madhava Krishna](https://robotics.iiit.ac.in/). I did my Bachelors degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/), the top ranked private university in India).    
+Currently, I'm an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/), IIIT Hyderabad in Computer Science with a specialization in Robotics. I'm advised by [Prof Madhava Krishna](https://robotics.iiit.ac.in/). I did my Bachelors degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/)).     
+
+In my free time, you will find me playing Tennis or writing poetry or lost in a SciFi novel. Always up for interesting conversations, [say hi](https://twitter.com/shubodhs_ai)!
+
+### News
+
+* Won IROS 2022 Outstanding Reviewer Award and was featured in [IIITH blog](https://blogs.iiit.ac.in/monthly_news/shubodh-s-receives-outstanding-reviewer-award-at-iros-2022/). 5 out of 4,291 reviewers were awarded this!
 
 
 # Publications
@@ -19,7 +25,7 @@ May 2020 | ICRA (IEEE International Conference on Robotics and Automation)
 
 ### Graduate Teaching Associate, Mobile Robotics
 *[July 2020 - Dec 2020]*   
-Teaching Associate (Head Teaching Assistant) for the course "Mobile Robotics", under Prof Madhava Krishna. I have designed the assignments and have taught most of Computer Vision and GraphSLAM parts of the course as the Teaching Associate. Ever heard of students falling in love with a TA? Yup, that's me :).
+Teaching Associate (Head Teaching Assistant) for the course "Mobile Robotics", under Prof Madhava Krishna. I have designed the assignments and have taught most of Computer Vision and GraphSLAM parts of the course as the Teaching Associate. My students gave me "Best TA of the galaxy" award, unofficially though :).
 
 ### Co-founder and SLAM Lead, Sally Robotics
 *[June 2018 - May 2019]*    

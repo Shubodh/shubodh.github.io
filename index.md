@@ -1,17 +1,21 @@
 # About me
 
-[LinkedIn](https://www.linkedin.com/in/shubodh-sai-1885a6119/) | [GitHub](https://github.com/Shubodh) | [Twitter](https://twitter.com/shubodhs_ai)    
+[Twitter](https://twitter.com/shubodhs_ai)    | [Threads](https://www.threads.net/@shubodhs.ai)   | [GitHub](https://github.com/Shubodh)   |  [Instagram](https://www.instagram.com/shubodhs.ai/)       
 
 
-Researcher working in the areas of robotic vision and geometric deep learning. 
+Researcher working in the areas of 3D vision and geometric deep learning.      
 
-Currently, I'm an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/), IIIT Hyderabad in Computer Science with a specialization in Robotics. I'm advised by [Prof Madhava Krishna](https://robotics.iiit.ac.in/). I did my Bachelors degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/)).     
+Currently, I'm working with [Dr Charu Sharma](https://www.iiit.ac.in/people/faculty/Charusharma/) at [Machine Learning Lab](https://mll.iiit.ac.in/), IIIT Hyderabad. Previously, I was fortunate to be adviced by [Prof Madhava Krishna](https://robotics.iiit.ac.in/) as an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/). I did my Bachelors degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/)).     
 
-In my free time, you will find me playing Tennis or writing poetry or lost in a SciFi novel. Always up for interesting conversations, [say hi](https://twitter.com/shubodhs_ai)!
+I find my creative expression through playing Tennis or writing poetry or dreaming while lost in a SciFi novel: "art, sport, music and a good life" at [Instagram](https://www.instagram.com/shubodhs.ai/).     
+For updates on technical projects, follow me on [Twitter](https://twitter.com/shubodhs_ai) or [Threads](https://www.threads.net/@shubodhs.ai)!
 
-### News
+### News (Successes and Failures)  
 
+* Started research internship with Dr. Charu Sharma.
+* Paper on visual localization submitted to WACV, fingers crossed!
 * Won IROS 2022 Outstanding Reviewer Award and was featured in [IIITH blog](https://blogs.iiit.ac.in/monthly_news/shubodh-s-receives-outstanding-reviewer-award-at-iros-2022/). 5 out of 4,291 reviewers were awarded this!
+* In the throes of my thesis, yet undeterred, I press on towards the crest of knowledge.
 
 
 # Publications
@@ -34,4 +38,4 @@ Teaching Associate (Head Teaching Assistant) for the course "Mobile Robotics", u
 
 
 
-...more content to be added to this website.
+...more exciting content to be added to this website. If you are specially into stuff like 3Blue1Brown, Stay tuned!

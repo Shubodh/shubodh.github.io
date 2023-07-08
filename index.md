@@ -5,9 +5,9 @@
 
 Researcher working in the areas of 3D vision and geometric deep learning.      
 
-Currently, I'm working with [Dr Charu Sharma](https://www.iiit.ac.in/people/faculty/Charusharma/) at [Machine Learning Lab](https://mll.iiit.ac.in/), IIIT Hyderabad. Previously, I was fortunate to be adviced by [Prof Madhava Krishna](https://robotics.iiit.ac.in/) as an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/). I did my Bachelors degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/)).     
+Currently, I'm working with [Dr Charu Sharma](https://www.iiit.ac.in/people/faculty/Charusharma/) at [Machine Learning Lab](https://mll.iiit.ac.in/), IIIT Hyderabad. Previously, I was fortunate to be advised by [Prof Madhava Krishna](https://robotics.iiit.ac.in/) as an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/). I did my Bachelor's degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/)).     
 
-I find my creative expression through playing Tennis or writing poetry or dreaming while lost in a SciFi novel: "art, sport, music and a good life" at [Instagram](https://www.instagram.com/shubodhs.ai/).     
+I find my creative expression through playing Tennis or writing poetry, or dreaming while lost in a SciFi novel ---- articulated as "art, sport, music and a good life" at [Instagram](https://www.instagram.com/shubodhs.ai/).     
 For updates on technical projects, follow me on [Twitter](https://twitter.com/shubodhs_ai) or [Threads](https://www.threads.net/@shubodhs.ai)!
 
 ### News (Successes and Failures)  

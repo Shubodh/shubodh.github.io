@@ -10,18 +10,16 @@ Currently, I'm working with [Dr Charu Sharma](https://www.iiit.ac.in/people/facu
 I find my creative expression through playing Tennis or writing poetry, or dreaming while lost in a SciFi novel ---- articulated as "art, sport, music and a good life" at [Instagram](https://www.instagram.com/shubodhs.ai/).     
 For updates on technical projects, follow me on [Twitter](https://twitter.com/shubodhs_ai) or [Threads](https://www.threads.net/@shubodhs.ai)!
 
-### News (Successes and Failures)  
+### News
 
-* Started research internship with Dr. Charu Sharma.
-* Paper on visual localization submitted to WACV, fingers crossed!
+* Paper release - LiDAR Image Pretraining for Cross-Modal Localization: [Project page](https://liploc.shubodhs.ai/)
 * Won IROS 2022 Outstanding Reviewer Award and was featured in [IIITH blog](https://blogs.iiit.ac.in/monthly_news/shubodh-s-receives-outstanding-reviewer-award-at-iros-2022/). 5 out of 4,291 reviewers were awarded this!
-* In the throes of my thesis, yet undeterred, I press on towards the crest of knowledge.
 
 
 # Publications
 
 ### LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization
-[Paper](https://arxiv.org/abs/2312.16648) | [Code](https://github.com/Shubodh/lidar-image-pretrain-VPR) | [Video](https://www.youtube.com/watch?v=ahlw_Q_3ud0)     
+[Project Page](https://liploc.shubodhs.ai/) | [Paper](https://arxiv.org/abs/2312.16648) | [Code](https://github.com/Shubodh/lidar-image-pretrain-VPR) | [Video](https://www.youtube.com/watch?v=ahlw_Q_3ud0)     
 Sai Shubodh, Mohammad Omama, Husain Zaidi, Udit Singh Parihar, K Madhava Krishna
 Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision 2024
 

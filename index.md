@@ -20,10 +20,15 @@ For updates on technical projects, follow me on [Twitter](https://twitter.com/sh
 
 # Publications
 
+### LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization
+[Paper](https://arxiv.org/abs/2312.16648) | [Code](https://github.com/Shubodh/lidar-image-pretrain-VPR) | [Video](https://www.youtube.com/watch?v=ahlw_Q_3ud0)     
+Sai Shubodh, Mohammad Omama, Husain Zaidi, Udit Singh Parihar, K Madhava Krishna
+Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision 2024
+
 ### Topological Mapping for Manhattan-like Repetitive Environments
 [Paper](https://arxiv.org/abs/2002.06575) | [Code](https://github.com/Shubodh/ICRA2020/) | [Video](https://www.youtube.com/watch?v=swYcwrjprh0)     
-Sai Shubodh Puligilla, Satyajit Tourani, Tushar Vaidya, Udit Singh Parihar, Ravi Kiran Sarvadevabhatla, K. Madhava Krishna     
-May 2020 | ICRA (IEEE International Conference on Robotics and Automation)    
+Sai Shubodh, Satyajit Tourani, Tushar Vaidya, Udit Singh Parihar, Ravi Kiran Sarvadevabhatla, K. Madhava Krishna     
+2020 IEEE International Conference on Robotics and Automation (ICRA)    
 
 # Experience
 

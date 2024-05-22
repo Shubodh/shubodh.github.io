@@ -19,8 +19,8 @@ For updates on technical projects, follow me on [Twitter](https://twitter.com/sh
 # Publications
 
 ### LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization
-[Project Page](https://liploc.shubodhs.ai/) | [Paper](https://arxiv.org/abs/2312.16648) | [Code](https://github.com/Shubodh/lidar-image-pretrain-VPR) | [Video](https://www.youtube.com/watch?v=ahlw_Q_3ud0)     
-Sai Shubodh, Mohammad Omama, Husain Zaidi, Udit Singh Parihar, K Madhava Krishna
+[Project Page](https://liploc.shubodhs.ai/) | [Paper](https://arxiv.org/abs/2312.16648) | [Code](https://github.com/Shubodh/lidar-image-pretrain-VPR) | [Video](https://www.youtube.com/watch?v=ahlw_Q_3ud0)       
+Sai Shubodh, Mohammad Omama, Husain Zaidi, Udit Singh Parihar, K Madhava Krishna    
 Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision 2024
 
 ### Topological Mapping for Manhattan-like Repetitive Environments

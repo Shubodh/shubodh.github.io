@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "A tutorial on finding minimum point correspondences between two point sets"

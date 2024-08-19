@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Shubodh Sai
 description: Robotics Researcher
 permalink: /blog/:title/
+kramdown:
+  parse_block_html: true

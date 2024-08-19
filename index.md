@@ -1,6 +1,5 @@
-# About me
 
-[Twitter](https://twitter.com/shubodhs_ai)    | [Threads](https://www.threads.net/@shubodhs.ai)   | [GitHub](https://github.com/Shubodh)   |  [Instagram](https://www.instagram.com/shubodhs.ai/)       
+[Twitter](https://twitter.com/shubodhs_ai)    | [Threads](https://www.threads.net/@shubodhs.ai)   | [GitHub](https://github.com/Shubodh)   |  [Instagram](https://www.instagram.com/shubodhs.ai/)  |   [Blog](/blog/)    
 
 
 Researcher working in the areas of 3D vision and geometric deep learning.      

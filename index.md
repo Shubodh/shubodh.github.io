@@ -1,5 +1,5 @@
 
-[Twitter](https://twitter.com/shubodhs_ai)    | [Threads](https://www.threads.net/@shubodhs.ai)   | [GitHub](https://github.com/Shubodh)   |  [Instagram](https://www.instagram.com/shubodhs.ai/)  |   [Blog](/blog/)    
+[Twitter](https://twitter.com/shubodhs_ai)    |  [GitHub](https://github.com/Shubodh) |   [Blog](/blog/)  |  [Instagram](https://www.instagram.com/shubodhs.ai/)      
 
 
 Researcher working in the areas of 3D vision and geometric deep learning.      

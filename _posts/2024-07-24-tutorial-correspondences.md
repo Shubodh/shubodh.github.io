@@ -5,6 +5,8 @@ date: 2024-07-24
 ---
 
 
+### A tutorial on finding minimum point correspondences between two point sets
+
 This is a general tutorial for 3D point cloud registration using SVD based closed form approaches with known correspondences.
 
 We also investigate what the minimum number of corresponding points needed is to register two point sets. This problem seems deceptively simple but I couldn't find a clear answer in standard computer vision/robotics texts. Therefore, this post offers a concise answer from multiple perspectives: theoretical, algorithmic and from geometric intuition by going through the original papers from the 1960s.

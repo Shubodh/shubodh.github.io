@@ -16,4 +16,4 @@ This resource is a series of detailed notes on mobile robotics concepts. The con
 
 
 
-This started off as lecture notes for flagship course "Mobile Robotics" offered by RRC, IIIT-Hyderabad in 2020 and now can be used as a reference for any student interested in these concepts. This is the first time that a course has been designed in Notion (at least at IIIT-H), and it has been a great success. This resource has organically attracted students for 4+ years (as of 2024)!
+This started off as lecture notes for flagship course "Mobile Robotics" offered by RRC, IIIT-Hyderabad in 2020 and now can be used as a reference for any student interested in these concepts. This is the first time that a course has been designed in Notion (at least at an Indian university), and it has been a great success. This resource has organically attracted students for 4+ years (as of 2024)!

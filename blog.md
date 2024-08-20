@@ -36,17 +36,37 @@ permalink: /blog/
     color: #333;
     line-height: 1.6;
   }
+  .blog-post.featured {
+    border-left: 4px solid #007bff;
+    background-color: #f0f8ff;
+  }
+  .blog-post.featured .blog-title {
+    font-size: 26px;
+  }
+  .featured-tag {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+  }
+
+
 </style>
 
 # Blog Posts
 
 <ul class="blog-list">
 {% for post in site.posts %}
-  <li class="blog-post">
+  <li class="blog-post {% if post.title == "Mobile Robotics: Navigating from Theory to Application" %}featured{% endif %}">
+    {% if post.title == "Mobile Robotics: Navigating from Theory to Application" %}
+      <span class="featured-tag">Featured</span>
+    {% endif %}
     <a href="{{ post.url | relative_url }}" class="blog-title">{{ post.title }}</a>
     <p class="blog-date">{{ post.date | date: "%B %d, %Y" }}</p>
     <p class="blog-description">{{ post.description | default: post.content | strip_html | truncatewords: 50 }}</p>
   </li>
 {% endfor %}
 </ul>
-

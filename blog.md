@@ -9,5 +9,5 @@ permalink: /blog/
 {% for post in site.posts %}
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   <p>{{ post.date | date: "%B %d, %Y" }}</p>
-  {{ post.excerpt }}
+  <p>{{ post.description | default: post.content | strip_html | truncatewords: 50 }}</p>
 {% endfor %}

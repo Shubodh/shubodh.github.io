@@ -2,6 +2,7 @@
 layout: post
 title: "A tutorial on finding minimum point correspondences between two point sets"
 date: 2024-07-24
+description: "3D point cloud registration with a focus on minimum point correspondences theoretically"
 ---
 
 

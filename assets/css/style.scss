@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.post-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.post-item {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.post-link {
+  font-size: 1.5rem;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.post-meta {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.post-excerpt {
+  margin-top: 0.5rem;
+}

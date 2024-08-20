@@ -3,10 +3,6 @@ layout: default
 ---
 
 <article class="post">
-  <!-- Back to Blog link -->
-  <p class="back-link" style="margin-bottom: 20px;">
-    <a href="{{ '/blog/' | relative_url }}" style="text-decoration: none; color: #007bff; font-weight: bold;">← Back to Blog</a>
-  </p>
 
   <!-- Display date prominently -->
   <p class="post-meta" style="font-size: 1.1em; margin-top: -20px; margin-bottom: 30px; color: #666;">{{ page.date | date: "%B %d, %Y" }}</p>
@@ -15,7 +11,7 @@ layout: default
     {{ content }}
   </div>
 
-  <!-- Repeat Back to Blog link at the bottom -->
+  <!-- Back to Blog link at the bottom -->
   <p class="back-link" style="margin-top: 30px;">
     <a href="{{ '/blog/' | relative_url }}" style="text-decoration: none; color: #007bff; font-weight: bold;">← Back to Blog</a>
   </p>

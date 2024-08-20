@@ -6,7 +6,6 @@ description: "A crisp look at important optimization functions in Computer Visio
 ---
 
 
-### Least Squares Optimization in Vision and Robotics: A Generic Formulation 
 
 The objective of this page is to understand the optimization functions in Vision and Robotics as a generic optimization function from the perspective of state and measurements. And differences between these optimization functions, for example, we discuss what is the difference between "Graph SLAM with landmarks" and "Bundle Adjustment"?
 

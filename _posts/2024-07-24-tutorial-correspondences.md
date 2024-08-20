@@ -6,7 +6,6 @@ description: "3D point cloud registration with a focus on minimum point correspo
 ---
 
 
-### A tutorial on finding minimum point correspondences between two point sets
 
 This is a general tutorial for 3D point cloud registration using SVD based closed form approaches with known correspondences.
 

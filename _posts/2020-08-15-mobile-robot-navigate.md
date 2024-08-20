@@ -5,7 +5,7 @@ date: 2020-08-15
 description: "This resource is a series of detailed notes on mobile robotics concepts. The content is organized under three main umbrella topics: Geometric Transformations and Mapping, Optimization Techniques in Robotics, and Visual Perception and Camera Calibration."
 ---
 
-> **Find the home page of this course here**: [Least Squares Optimization in Vision and Robotics: A Generic Formulation](https://saishubodh.notion.site/Mobile-Robotics-Navigating-from-Theory-to-Application-0b65a9c20edd4081978f4ffad917febb?pvs=4). 
+> **Find the home page of this course here**: [Mobile Robotics: Navigating from Theory to Application](https://saishubodh.notion.site/Mobile-Robotics-Navigating-from-Theory-to-Application-0b65a9c20edd4081978f4ffad917febb?pvs=4). 
 
 
 This resource is a series of detailed notes on mobile robotics concepts. The content is organized under three main umbrella topics: **Geometric Transformations and Mapping**, **Optimization Techniques in Robotics**, and **Visual Perception and Camera Calibration**. Each of these sections is designed to provide a comprehensive understanding from basic principles to implementations, supported by visually appealing and LaTeX-enhanced content along with a modern interactive user interface in Notion.

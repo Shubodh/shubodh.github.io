@@ -2,13 +2,13 @@
 layout: post
 title: "Mobile Robotics: Navigating from Theory to Application"
 date: 2020-08-15
-description: ""
+description: "This resource is a series of detailed notes on mobile robotics concepts. The content is organized under three main umbrella topics: Geometric Transformations and Mapping, Optimization Techniques in Robotics, and Visual Perception and Camera Calibration."
 ---
 
 > **Find the home page of this course here**: [Least Squares Optimization in Vision and Robotics: A Generic Formulation](https://saishubodh.notion.site/Mobile-Robotics-Navigating-from-Theory-to-Application-0b65a9c20edd4081978f4ffad917febb?pvs=4). 
 
 
-This resource is a series of notes on mobile robotics concepts. The content is organized under three main umbrella topics: **Geometric Transformations and Mapping**, **Optimization Techniques in Robotics**, and **Visual Perception and Camera Calibration**. Each of these sections is designed to provide a comprehensive understanding from basic principles to implementations, supported by visually appealing and LaTeX-enhanced content along with a modern interactive user interface in Notion.
+This resource is a series of detailed notes on mobile robotics concepts. The content is organized under three main umbrella topics: **Geometric Transformations and Mapping**, **Optimization Techniques in Robotics**, and **Visual Perception and Camera Calibration**. Each of these sections is designed to provide a comprehensive understanding from basic principles to implementations, supported by visually appealing and LaTeX-enhanced content along with a modern interactive user interface in Notion.
 
 1. **Geometric Transformations and Mapping**: This section delves into the essentials of spatial transformations and different data representations crucial for robotics navigation and mapping. It covers point cloud registration, including the Iterative Closest Point (ICP) method, which is pivotal for 3D reconstruction and alignment tasks.
 2. **Optimization Techniques in Robotics**: Focusing on linear and non-linear optimization problems, this section discusses their applications in vision and robotics. It includes a detailed look at how pose graph SLAM is formulated as a least squares optimization problem and explores the foundations of pose graph SLAM with practical examples.

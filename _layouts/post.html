@@ -3,8 +3,14 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
-  <p class="post-meta">{{ page.date | date: "%B %d, %Y" }}</p>
+  <!-- Remove the following line to avoid duplicate title -->
+  <!-- <h1>{{ page.title }}</h1> -->
+
+  <!-- <p class="post-meta">{{ page.date | date: "%B %d, %Y" }}</p> -->
+
+    <!-- to display date prominently -->
+  <p class="post-meta" style="font-size: 1.2em; margin-top: -20px; margin-bottom: 30px; color: #666;">{{ page.date | date: "%B %d, %Y" }}</p>
+
   <div class="post-content">
     {{ content }}
   </div>

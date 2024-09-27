@@ -20,7 +20,7 @@ For updates on technical projects, follow me on [Twitter](https://twitter.com/sh
 
 ### Revisit Anything: Visual Place Recognition via Image Segment Retrieval
 [Project Page](https://revisit-anything.github.io/) | [Paper](https://arxiv.org/abs/2409.18049) | [Code](https://github.com/AnyLoc/revisit-anything) | [Video](https://www.youtube.com/watch?v=zLXYdT4WVtQ)       
-Kartik Garg*, Sai Shubodh Puligilla*, Shishir Kolathaya, Madhava Krishna, Sourav Garg    
+Kartik Garg\*, Sai Shubodh Puligilla\*, Shishir Kolathaya, Madhava Krishna, Sourav Garg    
 European Conference on Computer Vision 2024
 
 

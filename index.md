@@ -1,5 +1,5 @@
 
-[CV](https://saishubodh.notion.site/Resume-Curriculum-Vitae-Shubodh-Sai-Oct-2024-119874ed2adf801d93f8fb3779b7d06d?pvs=4)  | [Twitter](https://twitter.com/shubodhs_ai)    |  [GitHub](https://github.com/Shubodh) |   [Blog](/blog/)  |  [Instagram](https://www.instagram.com/shubodhs.ai/)      
+[CV](https://saishubodh.notion.site/Resume-Curriculum-Vitae-Shubodh-Sai-Oct-2024-119874ed2adf801d93f8fb3779b7d06d?pvs=4) | [Google Scholar](https://scholar.google.com/citations?user=SqcZL-cAAAAJ&hl=en) | [Twitter](https://twitter.com/shubodhs_ai)    |  [GitHub](https://github.com/Shubodh) |   [Blog](/blog/) 
 
 
 Researcher working in the areas of computer vision and geometric deep learning.      

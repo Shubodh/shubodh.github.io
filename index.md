@@ -6,7 +6,7 @@ Researcher working in the areas of computer vision and geometric deep learning.
 
 Currently, I'm working with [Dr Charu Sharma](https://www.iiit.ac.in/people/faculty/Charusharma/) at [Machine Learning Lab](https://mll.iiit.ac.in/), IIIT Hyderabad. Previously, I was fortunate to be advised by [Prof Madhava Krishna](https://robotics.iiit.ac.in/) as an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/). I did my Bachelor's degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/)).     
 
-Areas worked on: Foundation models for visual place recognition; LiDAR Image Pretraining for localization; Graph Variational Autoencoders for generation of molecules.
+Areas worked on: SLAM, Foundation models paradigms for place recognition, Graph Variational Autoencoders for generation of molecules.
 
 **Currently looking for PhD positions!** Please find my CV at top of this page.
 
@@ -14,7 +14,13 @@ Areas worked on: Foundation models for visual place recognition; LiDAR Image Pre
 
 * Paper release - Revisit Anything: Visual Place Recognition via Image Segment Retrieval: [Project page](https://revisit-anything.github.io/) Accepted at ECCV 2024!
 * Paper release - LiDAR Image Pretraining for Cross-Modal Localization: [Project page](https://liploc.shubodhs.ai/)
-* Won IROS 2022 Outstanding Reviewer Award and was featured in [IIITH blog](https://blogs.iiit.ac.in/monthly_news/shubodh-s-receives-outstanding-reviewer-award-at-iros-2022/). 5 out of 4,291 reviewers were awarded this!
+* Won IROS 2022 Outstanding Reviewer Award and was featured in [IIITH blog](https://blogs.iiit.ac.in/monthly_news/shubodh-s-receives-outstanding-reviewer-award-at-iros-2022/). 5 out of 4,291 reviewers were awarded this!     
+
+------------
+
+For updates on technical projects, follow me on [Twitter](https://twitter.com/shubodhs_ai) or [Bluesky](https://bsky.app/profile/shubodhs-ai.bsky.social). 
+I find my creative expression through playing Tennis or writing poetry, or dreaming while lost in a SciFi novel ---- articulated as "art, sport, music and a good life" at [Instagram](https://www.instagram.com/shubodhs.ai/).     
+
 
 
 # Publications

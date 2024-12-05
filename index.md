@@ -19,7 +19,7 @@ Areas worked on: SLAM, Foundation models paradigms for place recognition, Graph 
 ------------
 
 For updates on technical projects, follow me on [Twitter](https://twitter.com/shubodhs_ai) or [Bluesky](https://bsky.app/profile/shubodhs-ai.bsky.social). 
-I find my creative expression through playing Tennis or writing poetry, or dreaming while lost in a SciFi novel ---- articulated as "art, sport, music and a good life" at [Instagram](https://www.instagram.com/shubodhs.ai/).     
+I find my creative expression through playing Tennis or writing poetry, or dreaming while lost in a sci-fi novel ---- articulated as "art, sport, music and a good life" at [Instagram](https://www.instagram.com/shubodhs.ai/).     
 
 
 

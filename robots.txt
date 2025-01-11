@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://shubodhs.ai/sitemap.xml
+User-agent: * Disallow: Sitemap: https://shubodh.github.io/sitemap.xml

@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a robotics researcher working in the areas of spatial intelligence and generative learning. My research aims to build _general_ robot agents which are capable of tackling complex tasks across diverse environments, with an emphasis on understanding the structure, dynamics and constraints of the real world.
+I am a robotics researcher working in the areas of spatial intelligence and generative learning. My research aims to build _general-purpose_ robot agents which are capable of taking complex set of actions across diverse environments, while understanding the structure, dynamics and constraints of the real world. My interests span robot learning as well as "classical" robotics. I have also worked on "AI for Science" research.
 
 Currently, I'm working with [Dr Charu Sharma](https://www.iiit.ac.in/people/faculty/Charusharma/) at [Machine Learning Lab](https://mll.iiit.ac.in/), IIIT Hyderabad. Previously, I was an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/) advised by [Prof Madhava Krishna](https://robotics.iiit.ac.in/) . I did my Bachelor's degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/)).     
 

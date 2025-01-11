@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-09-26 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Paper release - Revisit Anything: Visual Place Recognition via Image Segment Retrieval: [Project page](https://revisit-anything.github.io/) Accepted at ECCV 2024!

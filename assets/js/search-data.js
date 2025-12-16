@@ -109,13 +109,6 @@ ninja.data = [{
           title: 'Paper release - Revisit Anything: Visual Place Recognition via Image Segment Retrieval: Project...',
           description: "",
           section: "News",},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/shubodhs-ai.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -135,6 +128,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://instagram.com/shubodhs.ai", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/shubodh-sai", "_blank");
         },
       },{
         id: 'social-scholar',

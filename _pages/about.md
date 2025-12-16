@@ -24,4 +24,4 @@ Previously, I've worked with [Dr Charu Sharma](https://www.iiit.ac.in/people/fac
 
 -------
 
-I find my creative expression through playing Tennis or writing poetry, or dreaming while lost in a sci-fi novel -- articulated as _"art, sport, music and a good life"_. Take a glance at [Gallery](/blog/2024/life-gallery/) and more at [Instagram](https://www.instagram.com/shubodhs.ai/)!     
+I find my creative expression through playing Tennis or writing poetry, or dreaming while lost in a sci-fi novel -- articulated as _"art, sport, music and a good life"_. Take a glance at [Gallery](/blog/2024/life-gallery/) and more at [Instagram](https://www.instagram.com/shubs.ai/)!     

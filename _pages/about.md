@@ -15,8 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Currently building something new in robot learning.
-
 I am a researcher in robot learning. My research aims to build _general-purpose_ robot agents which are capable of taking a complex set of actions across diverse environments, while understanding the structure, dynamics and constraints of the real world. I have also worked on "AI for Science" research.
 
 Previously, I've worked with [Prof Madhava Krishna](https://robotics.iiit.ac.in/) as an MS by Research student at [Robotics Research Center](https://robotics.iiit.ac.in/) and [Dr Charu Sharma](https://www.iiit.ac.in/people/faculty/Charusharma/) at [Machine Learning Lab](https://mll.iiit.ac.in/). I did my Bachelor's degree at Birla Institute of Technology & Science, Pilani ([BITS Pilani](https://www.bits-pilani.ac.in/)).     
